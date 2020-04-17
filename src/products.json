@@ -1,0 +1,31 @@
+
+[
+    {
+        "ProductID": 1,
+        "ProductName": "Rice",
+        "UnitPrice": 1500.0000,
+        "UnitsInStock": 2,
+        "UnitsOnOrder": 0,
+        "ReorderLevel": 10,
+        "status":"In Stock"     
+    },
+    {
+        "ProductID": 2,
+        "ProductName": "Toor Dal",
+        "UnitPrice": 1500.0000,
+        "UnitsInStock": 2,
+        "UnitsOnOrder": 0,
+        "ReorderLevel": 10,
+       "status":"In Stock"    
+    },
+    {
+        "ProductID": 3,
+        "ProductName": "Urad dal",
+        "UnitPrice": 1500.0000,
+        "UnitsInStock": 2,
+        "UnitsOnOrder": 0,
+        "ReorderLevel": 10,
+        "status":"In Stock"      
+       
+    }
+]

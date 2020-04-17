@@ -1,0 +1,17 @@
+{
+    "projectName": "myfirstreact",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "C:\\fullstacktraining\\React\\myfirstreact",
+            "DistributionDir": "C:\\fullstacktraining\\React\\myfirstreact\\build",
+            "BuildCommand": "npm build",
+            "StartCommand": "npm start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}
